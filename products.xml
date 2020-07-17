@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+	<product category="vegetable">
+		<name>cabbage</name>
+		<quantity>2</quantity>
+		<price>65</price>
+	</product>
+	<product category="fruit">
+		<name>orange</name>
+		<quantity>13</quantity>
+		<price>84.10</price>
+	</product>
+	<product category="fruit">
+		<name>banana</name>
+		<quantity>10</quantity>
+		<price>45</price>
+	</product>
+	<product category="fruit">
+		<name>apple</name>
+		<quantity>15</quantity>
+		<price>35.50</price>
+	</product>
+	<product category="fish">
+		<name>salmon</name>
+		<quantity>4</quantity>
+		<price>250</price>
+	</product>
+	
+</products>
